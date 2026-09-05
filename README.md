@@ -1,4 +1,4 @@
-# Interactive-Calculator
+## Interactive-Calculator##
 This project is a lightweight, responsive desktop calculator built in Python using the native Tkinter graphical user interface framework.
 Here is a clear, professional project description you can use for your code repository (like GitHub), a portfolio, or a project submission.
 ------------------------------
